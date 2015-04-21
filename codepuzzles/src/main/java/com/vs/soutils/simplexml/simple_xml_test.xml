@@ -1,0 +1,9 @@
+        <ProcessConfiguration id="4020">
+          <EquipmentConfigurations class="java.util.HashMap">
+            <entry id="56789">
+                <EquipmentConfiguration id="5020">
+                  <address>foo</address>
+                </EquipmentConfiguration>
+            </entry>
+          </EquipmentConfigurations>
+        </ProcessConfiguration>

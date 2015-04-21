@@ -1,0 +1,7 @@
+<ProcessConfiguration id="4020">
+  <EquipmentConfigurations>
+    <EquipmentConfiguration id="5020">
+      <address>foo</address>
+    </EquipmentConfiguration>
+  </EquipmentConfigurations>
+</ProcessConfiguration>
